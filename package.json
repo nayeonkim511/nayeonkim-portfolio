@@ -1,6 +1,6 @@
 {
   "proxy": "http://localhost:5000",
-  "homepage": "https://nayeonkim511.github.io/nkportfolio",
+  "homepage": "https://nayeonkim511.github.io/nayeonkim-portfolio",
   "name": "nkportfolio",
   "version": "0.1.0",
   "private": true,
